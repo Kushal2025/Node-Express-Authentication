@@ -30,21 +30,25 @@ A simple and elegant **User Authentication System** built with **Node.js**, **Ex
 ---
 
 ## 📁 Folder Structure
-project-folder/
+
+```bash
+📦 user-auth-app
+├── 📂 models
+│   └── userModel.js
 │
-├── models/
-│ └── userModel.js
+├── 📂 public
+│   └── style.css               # (optional static CSS or assets)
 │
-├── public/
-│ └── (static files like CSS, JS)
+├── 📂 views
+│   ├── create.ejs              # Registration page
+│   ├── login.ejs               # Login page
+│   └── profile.ejs             # Profile display page
 │
-├── views/
-│ ├── create.ejs # Registration page
-│ ├── login.ejs # Login page
-│ └── profile.ejs # Profile display page
-│
-├── app.js # Main Express server
-└── package.json
+├── .gitignore
+├── app.js                      # Main Express server file
+├── package.json
+└── README.md
+
 
 ---
 
