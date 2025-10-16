@@ -31,7 +31,7 @@ A simple and elegant **User Authentication System** built with **Node.js**, **Ex
 
 ## 📁 Folder Structure
 
-```bash
+
 📦 user-auth-app
 ├── 📂 models
 │   └── userModel.js
@@ -52,7 +52,7 @@ A simple and elegant **User Authentication System** built with **Node.js**, **Ex
 
 ---
 
-## ⚙️ Setup Instructions
+### ⚙️ Setup Instructions
 
 ### 1️⃣ Clone the repository
 
